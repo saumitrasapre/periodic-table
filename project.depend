@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539716263 source:c:\users\my pc\desktop\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<graphics.h>
+	<fstream>
+
+1539716263 source:d:\second year\sem i\oop\mini project\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<graphics.h>
+	<fstream>
+
