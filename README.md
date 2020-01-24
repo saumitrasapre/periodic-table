@@ -2,7 +2,7 @@
 Periodic Table implemented using C++ Graphics library
 
 ## Using the program
-The code results in a simple mouse hover code, which opens in a WinBGI terminal. Simply move your mouse over to the required element to
+The code results in a simple mouse hover program, which opens in a WinBGI terminal. Simply move your mouse over to the required element to
 see its properties.
 
 ### Running the code
